@@ -1,6 +1,7 @@
 ---
-title: Home
+title: Title
 ---
+
 
 # Information for Senior Citizens
 
@@ -9,9 +10,5 @@ Please find which the category for the information that you're looking for.
 
 Please choose what catagory you come under:
 
-
-
-
-For all inquires contact our HelpLine +1-519-579-3800 or [email](mailto:info@waterlooregion.org)
 
 
