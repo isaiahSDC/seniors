@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Home
 ---
 
 # Information for Seniors
