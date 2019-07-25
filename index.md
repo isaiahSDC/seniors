@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 description: "Main page for all the information regarding rescources for seniors in the Waterloo region"
 ---
