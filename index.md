@@ -10,7 +10,7 @@ Please find which the category for the information that you're looking for.
 
 Please choose what catagory you come under:
 
-- [Financial Support](./docs/financialhelp.md)
+
 
 
 For all inquires contact our HelpLine +1-519-579-3800 or [email](mailto:info@waterlooregion.org)
