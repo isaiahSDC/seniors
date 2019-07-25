@@ -3,7 +3,6 @@ layout: default
 title: Home
 nav_order: 1
 description: "Main page for all the information regarding rescources for seniors in the Waterloo region"
-permalink: /
 ---
 
 # Information for Senior Citizens
