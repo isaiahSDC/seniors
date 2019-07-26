@@ -13,7 +13,7 @@ Are you an older adult living in Waterloo Region? There are a variety of program
 
 Please choose what catagory you come under:
 
-- [Above 65 years old](./docs/finance/Above65.html)
+- [Above 65 years old](./docs/finance/Above65.md)
 
 - [Below 65 years old](./docs/finance/Below65.md)
 
