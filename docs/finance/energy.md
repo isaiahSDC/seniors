@@ -18,3 +18,7 @@ has_toc: false
 - **AffordAbility** -  support for energy- saving upgrades for those who don't qualify for OESP or LEAP
   * Apply [online](link)
   * Call +1-855-494-3863
+
+*Note:* _There are is no difference in Energy financing for Seniors above and below the age of 65_
+
+[General Financial Support for Seniors](./financialhelp.md){: .btn }
