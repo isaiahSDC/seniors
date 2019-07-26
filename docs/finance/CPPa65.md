@@ -1,9 +1,9 @@
 ---
-title: CPP 65+
-#parent: Above 65+
-#grandparent: Financial Support for Seniors
-#nav_order: 3
-nav_exclude: true
+title: Canadian Pension Plan (65+)
+parent: Above 65+
+grandparent: Financial Support for Seniors
+nav_order: 1
+#nav_exclude: true
 ---
 
 # Canadian Pension Plan for ages 65+
