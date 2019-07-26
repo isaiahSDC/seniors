@@ -10,7 +10,7 @@ Please find which the category for the information that you're looking for.
 
 Please choose what catagory you come under:
 
-- [Financial Help](./docs/financialhelp.md)
+- [Financial Help](./docs/finance/financialhelp.md)
 
 
 
