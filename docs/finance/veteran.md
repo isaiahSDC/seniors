@@ -1,7 +1,7 @@
 ---
 title: Veteren Resources
 parent: Financial Help for Seniors
-nav_order: 6
+nav_order: 7
 has_toc: false
 #permalink: /docs/finance
 ---
