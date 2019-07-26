@@ -26,6 +26,8 @@ has_toc: false
   * Apply [online](link)
   * Visit Service Canada
 
+*Note:* _There are is no difference in disability financing for Seniors above and below the age of 65_
+
 [General Financial Support for Seniors](./financialhelp.md){: .btn }
 
 For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
