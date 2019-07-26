@@ -1,7 +1,7 @@
 ---
 title: Community Services & Discounts
 parent: Financial Help for Seniors
-nav_order: 9
+nav_order: 8
 has_toc: false
 #permalink: /docs/finance
 ---
