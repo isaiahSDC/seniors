@@ -23,3 +23,7 @@ To apply for any OAS program call +1-800-277-9914
 Or vsit the region's Service:
 - Market Square Suite 200, 25 Fredrick St., Kitchener
 - 350 Conestoga Blvd, Unit C1, Cambridge
+
+[Back to Financial Support for ages 65+](./Above65.md){: .btn .btn-blue}
+
+[General Financial Support for Seniors](./financialhelp.md){: .btn }
