@@ -27,6 +27,6 @@ Please chose the category where you need help with:
 [Community Services & Discounts](./commservice.md)
 
 
-[Back](./financialhelp.md){: .btn }
+[General Financial Support for Seniors](./financialhelp.md){: .btn }
 
 For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
