@@ -4,7 +4,7 @@ parent: Financial Help for Seniors
 nav_order: 3
 #has_children: true
 has_toc: false
-permalink: /docs/finance
+#permalink: /docs/finance
 ---
 
 # If you're age is 65+ 
