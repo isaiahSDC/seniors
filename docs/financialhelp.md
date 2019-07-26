@@ -1,6 +1,7 @@
 ---
 title: Financial Help for Seniors
 nav_order: 2
+#has_children: true
 description: "Main page for all the information for fanacial help for seniors in the Waterloo region"
 ---
 
@@ -10,9 +11,9 @@ Are you an older adult living in Waterloo Region? There are a variety of program
 
 Please choose what catagory you come under:
 
-- [Above 65 years old]({{ site.baseurl }}{% link docs/finance/Above65.md %})
+- [Above 65 years old](./docs/finance/Above65.md)
 
-- [Below 65 years old]({{ site.baseurl }}{% link docs/finance/Below65.md %})
+- [Below 65 years old](docs/finance/Below65.md)
 
 
 For all inquires contact our HelpLine +1-519-579-3800 or [email](mailto:info@waterlooregion.org)
