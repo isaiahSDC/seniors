@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prescription Drugs (65+)
+title: Prescriptions (65+)
 parent: Above 65+
 grandparent: Financial Support for Seniors
 nav_order: 4
