@@ -28,6 +28,10 @@ has_toc: false
 
 *Note:* _There are is no difference in disability financing for Seniors above and below the age of 65_
 
+[Ages ABOVE 65](./Above65.md){: .btn .btn-blue}
+
+[Ages BELOW 65](./Below65.md){: .btn .btn-blue}
+
 [General Financial Support for Seniors](./financialhelp.md){: .btn }
 
 For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
