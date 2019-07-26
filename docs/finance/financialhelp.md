@@ -15,7 +15,7 @@ Please choose what catagory you come under:
 
 - [Above 65 years old](./Above65.md)
 
-- [Below 65 years old](./docs/finance/Below65.md)
+- [Below 65 years old](./Below65.md)
 
 
 For all inquires contact our HelpLine +1-519-579-3800 or [email](mailto:info@waterlooregion.org)
