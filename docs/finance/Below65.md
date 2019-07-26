@@ -12,9 +12,9 @@ Please chose the category where you need help with:
 
 [Canada Pension Plan (CPP)(Under 65)](./CPPu65.md)
 
-[Canada OAS (under 65)](./COASu65.md)
+[Canada OAS (Under 65)](./COASu65.md)
 
-[Prescription Drugs (under 65)](./pdrugsu65.md)
+[Prescription Drugs (Under 65)](./pdrugsu65.md)
 
 [Energy](./energy.md)
 
