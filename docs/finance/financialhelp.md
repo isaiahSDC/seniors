@@ -1,7 +1,7 @@
 ---
 title: Financial Help for Seniors
 nav_order: 2
-has_children: true
+#has_children: true
 has_toc: false
 description: "Main page for all the information for fanacial help for seniors in the Waterloo region"
 permalink: /docs/finance
