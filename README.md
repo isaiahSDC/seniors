@@ -1,5 +1,7 @@
 # Information for Seniors
 
+https://isaiahsdc.github.io/seniors/
+
 https://info.waterlooregion.org/seniors/
 
 Two themes that might work for us:
