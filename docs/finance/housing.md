@@ -23,7 +23,11 @@ has_toc: false
 - **Ontario Renovates** - loans for house upkeep or to install accessibility features
   * Apply [online](link)
   * Call +1-519-575-4400
-  
+
+[Ages ABOVE 65](./Above65.md){: .btn .btn-blue}
+
+[Ages BELOW 65](./Below65.md){: .btn .btn-blue}
+
 *Note:* _There are is no difference in housing and utilities financing for Seniors above and below the age of 65_
 
 [General Financial Support for Seniors](./financialhelp.md){: .btn }
