@@ -3,20 +3,14 @@ title: Above 65+
 parent: Financial Help for Seniors
 nav_order: 2
 has_children: true
+has_toc: false
+permalink: /docs/finance
 ---
 
 # If you're age is 65+ 
-{: .no_toc }
 Please chose the category where you need help with:
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-[Canada Pension Plan (CPP)](./CPPa65.html)
+[Canada Pension Plan (CPP)](./CPPa65.md)
 
 [Canada OAS (65+)](./COASa65.html)
 
