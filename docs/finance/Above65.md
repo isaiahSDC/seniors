@@ -12,21 +12,21 @@ Please chose the category where you need help with:
 
 [Canada Pension Plan (CPP)](./CPPa65.md)
 
-[Canada OAS (65+)](./COASa65.html)
+[Canada OAS (65+)](./COASa65.md)
 
-[Prescription Drugs (65+)](./pdrugsa65.html)
+[Prescription Drugs (65+)](./pdrugsa65.md)
 
-[Energy](./energy.html)
+[Energy](./energy.md)
 
-[Housing & Utilities](./housing.html)
+[Housing & Utilities](./housing.md)
 
-[Veteran-specific programs](./veteran.html)
+[Veteran-specific programs](./veteran.md)
 
-[Disability-specific programs](./disability.html)
+[Disability-specific programs](./disability.md)
 
-[Community Services & Discounts](./commservice.html)
+[Community Services & Discounts](./commservice.md)
 
 
-[Back](./index.html)
+[Back](./financialhelp.md){: .btn }
 
 For all inquires contact our HelpLine +15195793800 or [email](mailto:info@waterlooregion.org)
