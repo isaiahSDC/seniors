@@ -1,7 +1,7 @@
 ---
 title: Housing & Utilities
 parent: Financial Help for Seniors
-nav_order: 5
+nav_order: 6
 has_toc: false
 #permalink: /docs/finance
 ---
