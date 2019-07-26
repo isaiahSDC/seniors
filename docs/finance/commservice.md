@@ -37,4 +37,8 @@ ___
 
 *Note:* _There are is no difference in community services and discounts for Seniors above and below the age of 65_
 
+[Ages ABOVE 65](./Above65.md){: .btn .btn-blue}
+
+[Ages BELOW 65](./Below65.md){: .btn .btn-blue}
+
 [General Financial Support for Seniors](./financialhelp.md){: .btn }
