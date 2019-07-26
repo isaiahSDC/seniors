@@ -5,8 +5,17 @@ nav_order: 2
 has_children: true
 ---
 
-## If you're age is 65+
+# If you're age is 65+ 
+{: .no_toc }
+Please chose the category where you need help with:
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 [Canada Pension Plan (CPP)](./CPPa65.html)
 
 [Canada OAS (65+)](./COASa65.html)
