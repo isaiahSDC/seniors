@@ -42,7 +42,9 @@ For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.or
 - Trinity Village Studios, Kitchener Phone: +1-519-896-3112 ext. 300
 
 - Sunnyside Supportive housing Phone: +1-519-893-8494 Ext 6265
+
 ---
+
 ## Independent Affordable Rental Housing for Seniors:
 
 Several housing providers have units specifically for older adults that are not included on the Region’s centralized waiting list. 
@@ -51,6 +53,7 @@ For more information, phone the Community Information Centre of Waterloo Region 
 Ask for the _Housing for Seniors_ list.
 
 ---
+
 ## Funding Assistance for Housing
 **Affordable Community Housing Program**
 
@@ -60,6 +63,7 @@ Ask for the _Housing for Seniors_ list.
 
 >150 Frederick St, 8th Floor, Kitchener Phone: +1-519-575-4047
 
+---
 
 ## Support Services
 - **Community Care Concepts of Woolwich, Wellesley and Wilmot** 
@@ -77,6 +81,8 @@ Ask for the _Housing for Seniors_ list.
   - Toll Free Phone: +1-888-883-3313 
   - After hours phone: +1-519-883-5544
 
+---
+
 ## Elder Abuse
 Elder Abuse Response Team
 Mosaic (Carizon) Counselling and Family Services
@@ -86,6 +92,8 @@ Community Justice Initiatives of Waterloo Region
 Phone: 519-744-6549
 Waterloo Region Committee on Elder Abuse
 Phone: 519-883-2280
+
+---
 
 ## Health Care and Safety
 Hearing Care Counselling - Canadian Hearing Society Waterloo
@@ -107,6 +115,8 @@ Waterloo Region Social Services Department – Seniors’ Services Programs and 
 Woolwich Community Health Centre
 Primary health care, resources, and information for seniors and caregivers St. Jacobs Phone: 519-664-3794 Wellesley Phone: 519-656-9025
 
+---
+
 ## Transportation
 Grand River Transit
 - Mobility PLUS
@@ -117,6 +127,8 @@ Phone: 519-585-7555
 Kiwanis Transit
 Specialized accessible transportation service in Wellesley, Wilmot, and Woolwich townships Phone: 519-669-4533
 Woolwich Community Services, Transportation Program Transportation to and from medical appointments Phone: 519-669-5139
+
+---
 
 ## General Financial Assistance
 Old Age Security and Guaranteed Income Supplement
@@ -130,6 +142,8 @@ Ontario Health Insurance (OHIP), Kitchener Information Office
 1400 Weber St E, Unit 2B, Kitchener Kitchener Information Centre: 519-893-3966
 Income Tax Clinics
 Income tax clinics are available throughout Waterloo Region for low income individuals. For more information, call the Social Development Centre of Waterloo Region at 519-579-1096
+
+---
 
 ## Education
 Laurier Association for Lifelong Learning
@@ -156,11 +170,15 @@ Lectures by professors and community experts
 Century Room at the Manulife Sportsplex, RIM Park, Waterloo
 Phone: 519-885-2959
 
+---
+
 ## Volunteering
 Volunteer Action Centre
 151 Frederick St, Suite 300, Kitchener Phone: 519-742-8610
 Volunteer Cambridge
 150 Main St, 2nd floor, Cambridge Phone: 519-621-1030 
+
+---
 
 ## Recreation
 Allan Reuter Centre
