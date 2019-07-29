@@ -2,12 +2,13 @@
 title: Financial Help for Seniors
 nav_order: 2
 has_children: true
-#has_toc: false
+has_toc: false
 description: "Main page for all the information for fanacial help for seniors in the Waterloo region"
 permalink: /docs/finance
 ---
 
 # Financial Information for Senior Citizens in Waterloo Region
+{: .no_toc }
 
 Are you an older adult living in Waterloo Region? There are a variety of programs and resources available through different levels of government to provide income security for those who have retired or are in need financially for other reasons. Use this information page to find out which services you're eligible for to make sure you're not missing out.
 
@@ -20,7 +21,7 @@ Please choose what catagory you come under:
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
 
-{: .no_toc }
+
 
 ## Table of contents
 {: .no_toc .text-delta }
