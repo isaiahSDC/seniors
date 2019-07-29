@@ -21,7 +21,7 @@ Please choose what catagory you come under:
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
 
-
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -29,38 +29,53 @@ For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.or
 1. TOC
 {:toc}
 
+---
 ## Seniors’ Community Housing
 (subsidized by the Region of Waterloo)
-Housing Cambridge Phone: 519-650-5599
-Kitchener Housing Phone: 519-744-6655
-Millwood Manor, Kitchener Phone: 519-745-9901
-Trinity Village Studios, Kitchener Phone: 519-896-3112 ext. 300
-Sunnyside Supportive housing Phone:519-893-8494 Ext 6265
 
+- Housing Cambridge Phone: +1-519-650-5599
+
+- Kitchener Housing Phone: +1-519-744-6655
+
+- Millwood Manor, Kitchener Phone: +1-519-745-9901
+
+- Trinity Village Studios, Kitchener Phone: +1-519-896-3112 ext. 300
+
+- Sunnyside Supportive housing Phone: +1-519-893-8494 Ext 6265
+---
 ## Independent Affordable Rental Housing for Seniors:
-Several housing providers have units specifically for older adults that are not included on the Region’s centralized waiting list. For more information, phone the Community Information Centre of Waterloo Region at 519-579-3800. Ask for the Housing for Seniors list.
 
+Several housing providers have units specifically for older adults that are not included on the Region’s centralized waiting list. 
+
+For more information, phone the Community Information Centre of Waterloo Region at +1-519-579-3800. 
+Ask for the _Housing for Seniors_ list.
+
+---
 ## Funding Assistance for Housing
-Affordable Community Housing Program
-Community Housing Access Centre 235 King Street, 6th Floor, Kitchener Phone: 519-575-4833
-Affordable Home Ownership Program
-150 Frederick St, 8th Floor, Kitchener Phone: 519-575-4047
-Ontario Renovates Program (Homeowners Repair Program) 150 Frederick St, 8th Floor, Kitchener Phone: 519-575-4047
+**Affordable Community Housing Program**
+
+>Community Housing Access Centre 235 King Street, 6th Floor, Kitchener Phone: +1-519-575-4833
+
+**Affordable Home Ownership Program** & **Ontario Renovates Program (Homeowners Repair Program)**
+
+>150 Frederick St, 8th Floor, Kitchener Phone: +1-519-575-4047
+
 
 ## Support Services
-Community Care Concepts of Woolwich, Wellesley and Wilmot
-Home support assistance to adults 60 years
-and over
-Phone: 519-664-1900
-Community Support Connections
-Home support services for Kitchener and Cambridge, Meals on Wheels for Kitchener, Waterloo, Cambridge and North Dumfries Phone: 519-772-8787
-Waterloo Home Support Services
-Home support services available to seniors 65 years and over in Waterloo, resource and information centre
-Phone: 519-579-6930
-Waterloo Wellington Community Care Access Centre
-Assessment and referral to community based services, specialty health services and Long Term Care
-Phone: 519-748-2222
-Toll Free Phone: 1-888-883-3313 After hours phone: 519-883-5544
+- **Community Care Concepts of Woolwich, Wellesley and Wilmot** 
+  - Home support assistance to adults 60 years and over.
+   - **Phone: +1-519-664-1900**
+- **Community Support Connections** 
+  - Home support services for Kitchener and Cambridge, Meals on Wheels for Kitchener, Waterloo, Cambridge and North Dumfries  
+  - **Phone: +1-519-772-8787**
+- **Waterloo Home Support Services**
+  - Home support services available to seniors 65 years and over in Waterloo, resource and information centre
+  - **Phone: +1-519-579-6930**
+- **Waterloo Wellington Community Care Access Centre**
+  - Assessment and referral to community based services, specialty health services and Long Term Care
+  - **Phone: +1-519-748-2222*
+  - Toll Free Phone: +1-888-883-3313 
+  - After hours phone: +1-519-883-5544
 
 ## Elder Abuse
 Elder Abuse Response Team
