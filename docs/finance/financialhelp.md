@@ -18,4 +18,4 @@ Please choose what catagory you come under:
 - [Below 65 years old](./Below65.md)
 
 
-For all inquires contact our HelpLine +1-519-579-3800 or [email](mailto:info@waterlooregion.org)
+For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
