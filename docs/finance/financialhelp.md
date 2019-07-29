@@ -19,3 +19,11 @@ Please choose what catagory you come under:
 
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
+
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
