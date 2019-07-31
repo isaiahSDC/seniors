@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Veteren Resources
 parent: Financial Help for Seniors
 nav_order: 7
