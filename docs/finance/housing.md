@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Housing & Utilities
 parent: Financial Help for Seniors
 nav_order: 6
