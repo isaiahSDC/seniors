@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Energy
 parent: Financial Help for Seniors
 nav_order: 5
